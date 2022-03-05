@@ -13,7 +13,7 @@
 
 ```markdown
 基地图片
-![基地俯拍图](https://github.com/yiyu6/yiyu6.github.io/blob/raw/%E5%9F%BA%E5%9C%B0%E5%9B%BE%E7%89%871)
+![Image](https://github.com/yiyu6/yiyu6.github.io/blob/raw/4471CE04-C502-42CE-B71E-630A9FF22E44.jpeg)
 
 
 ```
