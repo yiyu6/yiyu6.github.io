@@ -23,7 +23,7 @@
 ```
 ##### 产品图片
 ![产品图片](https://github.com/yiyu6/yiyu6.github.io/blob/main/%E4%BA%A7%E5%93%81%E5%9B%BE%E7%89%872)
-![sangqi](https://github.com/yiyu6/yiyu6.github.io/blob/main/4471CE04-C502-42CE-B71E-630A9FF22E44.jpeg)
+
 
 ### 联系方式
 
