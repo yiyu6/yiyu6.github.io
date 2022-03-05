@@ -11,9 +11,9 @@
 山川乡大里村秧田坞，周围群山环绕，清流见底；山间茂林修竹，鸟鸣不绝。相传这里的山间岩壁上生长着野生的铁皮石斛，拥有许多原生态的“珍宝”。
 我们的云坞家庭农场就位于这绿水青山之间。
 
+
 ```markdown
-基地图片
-![Image](https://raw.githubusercontent.com/yiyu6/yiyu6.github.io/main/4471CE04-C502-42CE-B71E-630A9FF22E44.jpeg)
+![Image](https://raw.githubusercontent.com/yiyu6/yiyu6.github.io/raw/4471CE04-C502-42CE-B71E-630A9FF22E44.jpeg)
 
 
 ```
