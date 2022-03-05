@@ -17,18 +17,22 @@
 ![image](https://user-images.githubusercontent.com/100985511/156869871-db6e4ca2-5dbc-4ce9-ba19-ae40580522d3.png)
 ![image](https://user-images.githubusercontent.com/100985511/156869882-e64f04ad-e500-4bbe-84d7-5f14e73d177a.png)
 
+```markdown
 
-**Bold** and _Italic_ and `Code` text
+### 产品介绍
 
-[Link](url) and ![Image](src)
-```
+```markdown
+产品图片
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
+![image](https://user-images.githubusercontent.com/100985511/156870000-8c391ed8-11a0-4cc3-97a7-a3cfaf7a6be4.png)
+![image](https://user-images.githubusercontent.com/100985511/156870007-e503e75e-2277-4a00-8b2e-58a67f704ef6.png)
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yiyu6/yiyu6.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 联系方式
+
+更多信息可以联系基地官方微信号：tpsh961
+
+
+
+
